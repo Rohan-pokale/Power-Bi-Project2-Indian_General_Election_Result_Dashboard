@@ -42,14 +42,14 @@ The data model uses a star schema with the following key tables:
 
 ## 📊 Dashboard Pages
 
-### 1️⃣ Landing Page – Navigation Hub ( [Visit Landing Page](https://github.com/Rohan-pokale/Power-Bi-Project2-Indian_General_Election_Result_Dashboard/blob/main/Page1-Landing%20Page.PNG) )
+### 1️⃣ Landing Page – Navigation Hub ( [View Landing Page](https://github.com/Rohan-pokale/Power-Bi-Project2-Indian_General_Election_Result_Dashboard/blob/main/Page1-Landing%20Page.PNG) )
 - Quick intro to dashboard modules
 - 4 navigation tiles: Overview, State Demographics, Political Landscape, Constituency Analysis
 - Engaging visuals and voting info (dates & result day)
 
 ---
 
-### 2️⃣ Overview Analysis – National Summary ( [Visit Overview Analysis Page](https://github.com/Rohan-pokale/Power-Bi-Project2-Indian_General_Election_Result_Dashboard/blob/main/Page2-Overview%20Analysis.PNG) )
+### 2️⃣ Overview Analysis – National Summary ( [View Overview Analysis Page](https://github.com/Rohan-pokale/Power-Bi-Project2-Indian_General_Election_Result_Dashboard/blob/main/Page2-Overview%20Analysis.PNG) )
 - Total Seats: 543
 - NDA: 292 (54%) | I.N.D.I.A.: 234 (43%) | Others: 17 (3%)
 - Alliance-wise seat distribution
@@ -58,7 +58,7 @@ The data model uses a star schema with the following key tables:
 
 ---
 
-### 3️⃣ State Demographics Analysis ( [Visit State Demographics Analysis Page](https://github.com/Rohan-pokale/Power-Bi-Project2-Indian_General_Election_Result_Dashboard/blob/main/Page3-State%20Demographics%20Analysis.PNG) )
+### 3️⃣ State Demographics Analysis ( [View State Demographics Analysis Page](https://github.com/Rohan-pokale/Power-Bi-Project2-Indian_General_Election_Result_Dashboard/blob/main/Page3-State%20Demographics%20Analysis.PNG) )
 - Interactive state maps:
   - Total seats & alliance majority per state
   - Winning party by constituency
@@ -67,7 +67,7 @@ The data model uses a star schema with the following key tables:
 
 ---
 
-### 4️⃣ Political Landscape by State ( [Visit Political Landscape by State Page](https://github.com/Rohan-pokale/Power-Bi-Project2-Indian_General_Election_Result_Dashboard/blob/main/Page4-Political%20Landscape%20By%20State.PNG) )
+### 4️⃣ Political Landscape by State ( [View Political Landscape by State Page](https://github.com/Rohan-pokale/Power-Bi-Project2-Indian_General_Election_Result_Dashboard/blob/main/Page4-Political%20Landscape%20By%20State.PNG) )
 - Select state (e.g., Maharashtra) to see:
   - Alliance-wise seat tally
   - Party-wise result table
@@ -76,7 +76,7 @@ The data model uses a star schema with the following key tables:
 
 ---
 
-### 5️⃣ Constituency Analysis ( [Visit Constituency Analysis Page](https://github.com/Rohan-pokale/Power-Bi-Project2-Indian_General_Election_Result_Dashboard/blob/main/Page5-Constituency%20Analysis.PNG) )
+### 5️⃣ Constituency Analysis ( [View Constituency Analysis Page](https://github.com/Rohan-pokale/Power-Bi-Project2-Indian_General_Election_Result_Dashboard/blob/main/Page5-Constituency%20Analysis.PNG) )
 - View any Lok Sabha seat (e.g., **Wayanad**)
 - Total, EVM, and postal votes
 - Candidate performance:
@@ -86,7 +86,7 @@ The data model uses a star schema with the following key tables:
 
 ---
 
-### 6️⃣ Details Grid – Full Dataset ( [Visit Details Grid Page](https://github.com/Rohan-pokale/Power-Bi-Project2-Indian_General_Election_Result_Dashboard/blob/main/Page6-Details%20Grid.PNG) )
+### 6️⃣ Details Grid – Full Dataset ( [View Details Grid Page](https://github.com/Rohan-pokale/Power-Bi-Project2-Indian_General_Election_Result_Dashboard/blob/main/Page6-Details%20Grid.PNG) )
 - Tabular data view of all constituencies
 - Fields: Winner, Runner-up, Party, Alliance, Votes, Margin
 - Highlighted totals and winning margins
