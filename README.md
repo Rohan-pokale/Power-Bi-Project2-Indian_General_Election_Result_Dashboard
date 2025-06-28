@@ -58,7 +58,7 @@ The data model uses a star schema with the following key tables:
 
 ---
 
-### 3️⃣ State Demographics Analysis ( [Visit State Demographics Analysis Page](https://github.com/Rohan-pokale/Power-Bi-Project2-Indian_General_Election_Result_Dashboard/blob/main/Page2-Overview%20Analysis.PNG) )
+### 3️⃣ State Demographics Analysis ( [Visit State Demographics Analysis Page](https://github.com/Rohan-pokale/Power-Bi-Project2-Indian_General_Election_Result_Dashboard/blob/main/Page3-State%20Demographics%20Analysis.PNG) )
 - Interactive state maps:
   - Total seats & alliance majority per state
   - Winning party by constituency
